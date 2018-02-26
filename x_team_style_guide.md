@@ -69,10 +69,16 @@ Public and private members should be commented clearly without being excessive. 
 ### Examples
 
 * classes
-  
-* fields
+Should specify the data structure used within the class, if any.
 
-  //the following line is explained in this statement
+//This class uses an AVL tree.
+public class BalancedSearchTree<T extends Comparable<T>> implements SearchTreeADT<T> { }
+
+* fields
+  (In many scenarios we will leave out comments for global fields - their names should be self-explanatory.)
+  
+  //freezing point for water in fahrenheit
+  public static final int FAHRENHEIT_WATER_FREEZE_TEMP = 32;
   
 * constructors
   
@@ -80,7 +86,7 @@ Public and private members should be commented clearly without being excessive. 
   }
   
 * methods
-
+  
 
  
 * coding style (brackets, horizontal, and vertical spacing) for:
