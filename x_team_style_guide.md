@@ -38,6 +38,8 @@ Should be brief but sensible. Style guides are helpful in setting the standard f
    
 * fields
 
+   public static final int CONSTANT_NAME = 20;
+   
 * methods
 
    public boolean exampleMethod(){
