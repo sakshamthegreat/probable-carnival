@@ -1,15 +1,16 @@
-# super-octo-system
+# probable-carnival
 
 1. Replace the repository name in the title above with the name of your team's GitHub repository for this exercise.
 2. Answer these questions
    * What are the GitHub usernames of your team members?
-       * GitHub username 1:
-       * GitHub username 2:
-       * GitHub username 3:
-       * GitHub username 4:
-       * GitHub username 5:
-   * When did you complete this exercise? 
-   * How long did it take your team to complete this exercise? 
+       * GitHub username 1: sakshamthegreat (Saksham Badyal)
+       * GitHub username 2: pambutas (Peter Ambutas)
+       * GitHub username 3: robbiebarth (Robbie Barth)
+       * GitHub username 4: n/a (Emily Bian)
+       * GitHub username 5: n/a (Abdullah)
+   * When did you complete this exercise? Started on 2/26/18. Two members, Emily and Abdullah are not communicating
+   about whether or not they will show up to the meeting. 
+   * How long did it take your team to complete this exercise? About one hour.
 
 ## Table of Contents
 
