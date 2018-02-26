@@ -10,7 +10,7 @@
        * GitHub username 5: n/a (Abdullah)
    * When did you complete this exercise? Started on 2/26/18. Two members, Emily and Abdullah are not communicating
    about whether or not they will show up to the meeting. 
-   * How long did it take your team to complete this exercise? About one hour.
+   * How long did it take your team to complete this exercise? About 40 minutes.
 
 ## Table of Contents
 
