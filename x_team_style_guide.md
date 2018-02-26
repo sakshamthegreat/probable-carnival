@@ -84,8 +84,8 @@ Public and private members should be commented clearly without being excessive. 
 * coding style (brackets, horizontal, and vertical spacing) for:
   * if statements
   
-  if(exampleVariable == 5){
-  }
+      if(exampleVariable == 5){
+      }
   
   * switch statement
    
