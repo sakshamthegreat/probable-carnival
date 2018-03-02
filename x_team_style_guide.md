@@ -93,6 +93,7 @@ public class BalancedSearchTree<T extends Comparable<T>> implements SearchTreeAD
  * Known Bugs: this method has this bug in it
  /
  public int readThis(String text) throws IllegalArgumentException{
+    return 0;
  }
  
 * coding style (brackets, horizontal, and vertical spacing) for:
