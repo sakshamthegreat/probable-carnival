@@ -86,8 +86,14 @@ public class BalancedSearchTree<T extends Comparable<T>> implements SearchTreeAD
   }
   
 * methods
-  
-
+ /*
+ * This method serves these purposes.
+ * @param - this is a parameter argument
+ * @throws - this exception
+ * Known Bugs: this method has this bug in it
+ /
+ public int readThis(String text) throws IllegalArgumentException{
+ }
  
 * coding style (brackets, horizontal, and vertical spacing) for:
   * if statements
