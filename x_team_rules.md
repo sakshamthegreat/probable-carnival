@@ -1,8 +1,9 @@
 # X-Team 01 Rules
 
-These rules establish how our team will assign tasks,
-track progress on each task, and communicate with each other 
-when a member is unable to complete a task that has been assigned to that member.
+These rules establish how our team will assign tasks and track progress on each task.
+This document will establish how we communicate with each other as well as how we 
+will solve conflicts and deal with potential problems such as when a member is unable
+to complete a task that has been assigned to that member.
 
 This document helps individual members understand the team's expectations,
 and will hopefully lead to productive team work with fewer conflicts
