@@ -12,7 +12,7 @@ and missed deadlines.
 
 Team will communicate in person, or on GroupMe about what tasks they wish to work
 on, and based on this, tasks will be assigned. Team members may also say how confident
-they feel doing their respective assignments, and can request for a second team member
+they feel doing their respective assignments, and can request for additional team members
 to work with them. If any conflicts come up regarding members wanting to do the same task,
 the team leader will step in and resolve issues.
 
@@ -46,9 +46,9 @@ team members can work to help ease the difficulties the team member is facing.
 
 Transparency and Communication are the name of the game here. If a team member is having
 trouble with something, he or she should communicate these issues to make everyone aware
-so that problems don't just get left unsaid, and the team suffers because nobody knew about it.
+so that problems aren't left unsaid, therefore resulting in the team suffering as a whole because nobody addressed it.
 Everyone needs to communicate at all necessary times, and all communication needs to be open
-and honest. Failure to do this will cause degreation of code quality, and deterioration of
+and honest. Failure to do this will cause degredation of code quality, and deterioration of
 teamwork. Therefore, always always speak your mind regarding the project, and speak it honestly.
 
 
