@@ -8,8 +8,8 @@
        * GitHub username 3: robbiebarth (Robbie Barth)
        * GitHub username 4: emilybian (Emily Bian)
        * GitHub username 5: aljalaq (Abdulrahman Aljalaq)
-   * When did you complete this exercise? Started on 2/26/18. Completed on 3/14/18
-   * How long did it take your team to complete this exercise? About 60 minutes.
+   * When did you complete this exercise? Started on 2/26/18. Completed on 3/4/18
+   * How long did it take your team to complete this exercise? About 90 minutes.
 
 ## Table of Contents
 
