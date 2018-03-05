@@ -6,7 +6,7 @@
        * GitHub username 1: sakshamthegreat (Saksham Badyal)
        * GitHub username 2: pambutas (Peter Ambutas)
        * GitHub username 3: robbiebarth (Robbie Barth)
-       * GitHub username 4: n/a (Emily Bian)
+       * GitHub username 4: emilybian (Emily Bian)
        * GitHub username 5: n/a (Abdullah)
    * When did you complete this exercise? Started on 2/26/18. Two members, Emily and Abdullah are not communicating
    about whether or not they will show up to the meeting. 
